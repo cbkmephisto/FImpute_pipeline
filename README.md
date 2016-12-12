@@ -1,6 +1,6 @@
 # FImpute_pipeline
 
-Scripts processing **ab-genotype** to [FImpute][3436ed9e] to **ab-genotype**/haplotype, using tools from `SNPipeline`.
+Scripts processing **ab-genotype** to [FImpute][3436ed9e] to **ab-genotype**/haplotype, using tools from [`SNPipeline`](https://github.com/cbkmephisto/SNPipeline).
 
   [3436ed9e]: http://www.aps.uoguelph.ca/~msargol/fimpute/ "FImpute"
 
