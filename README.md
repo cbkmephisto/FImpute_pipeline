@@ -1,10 +1,12 @@
+# FImpute_pipeline
+
+Scripts processing ab-genotype to FImpute to ab-genotype/haplotype, using tools from SNPipeline.
 
 0. make links to pooled_* to 0-pooled/
 
 1. cd 0-pooled; and run zzz-0-* to convert pooled_BOS1 to pooled_100k if exists
 
 2. cd 1-maps;   and run zzz-0-* to link map files according to pooled_ files
-
 
 3. other scripts in the current folder
 
