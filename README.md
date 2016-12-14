@@ -1,5 +1,7 @@
 # FImpute_pipeline
 
+[More detailed documentation](https://github.com/cbkmephisto/FImpute_pipeline/blob/master/doc_FImpute_pipeline.md)
+
 Scripts processing **ab-genotype** to [FImpute][3436ed9e] to **ab-genotype**/haplotype, using tools from [`SNPipeline`](https://github.com/cbkmephisto/SNPipeline).
 
   [3436ed9e]: http://www.aps.uoguelph.ca/~msargol/fimpute/ "FImpute"
